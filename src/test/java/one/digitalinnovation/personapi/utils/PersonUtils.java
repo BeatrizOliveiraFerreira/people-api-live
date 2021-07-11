@@ -8,7 +8,7 @@ import java.util.Collections;
 
 public class PersonUtils {
     private static final String FIRST_NAME = "Marisol";
-    private static final String LAST_NAME = "González";
+    private static final String LAST_NAME = "Gonzalez";
     private static final String CPF_NUMBER = "229.222.848-73";
     private static final long PERSON_ID = 1L;
     private static final LocalDate BIRTH_DATE = LocalDate.of(2018, 18, 1);
