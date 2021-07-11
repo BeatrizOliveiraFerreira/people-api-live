@@ -1,4 +1,4 @@
-# Projeto de Rest API com Sistema de gerenciamento de Pessoas através das aulas de Rodrigo Peleias da DIO- Digital Innovation One
+# Projeto de Rest API com Sistema de gerenciamento de Pessoas através das aulas de Rodrigo Peleias da DIO - Digital Innovation One
 
 Projeto de Rest API com Sistema de gerenciamento de Pessoas através das aulas de Rodrigo Peleias
 
