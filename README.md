@@ -1,2 +1,3 @@
-Repositório sobre sistema de gerenciamento de pessoas.
-localhost:8080/h2-console/
+Projeto de Rest API com Sistema de gerenciamento de Pessoas através das aulas de Rodrigo Peleias
+
+Criado com Spring-Boot: https://start.spring.io/ Aplicação no Heroku.
